@@ -14,9 +14,7 @@ function calcularPrecioTotal (precioUnitario, cantidadDeUnidades, costoDeEnvio){
 }
 
 function dejarPasar (edad){
-	const esMayor = edad => 18
-
-	return esMayor
+	const edad => 18
 	
 }
 
